@@ -228,9 +228,10 @@ foo = function () {};
 console.log(typeof foo); // function
 ```
 
+🔗 [null의 타입 값이 object로 나오는 이유](https://witch.work/ko/posts/javascript-why-typeof-null-is-object)
+
 > 자바스크립트의 변수는 선언이 아닌 **할당에 의해 타입이 결정(타입 추론, type inference)** 된다.
-> <br> 그리고 **재할당에 의해 변수의 타입은 언제든 동적으로 변할 수 있다.**
-> <br>이러한 특징을 `동적 타이핑(dynamic typing)`이라 하며 자바스크립트를 `동적 타입(dynamic/weak type) 언어`라 한다.
+> <br> 그리고 **재할당에 의해 변수의 타입은 언제든 동적으로 변할 수 있다.** > <br>이러한 특징을 `동적 타이핑(dynamic typing)`이라 하며 자바스크립트를 `동적 타입(dynamic/weak type) 언어`라 한다.
 
 ### 동적 타입 언어의 단점
 
