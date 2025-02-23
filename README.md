@@ -6,4 +6,4 @@
 
 ## 2주차
 
-[8장 - 제어문](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-8.md) |
+[8장 - 제어문](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-8.md) | [9장 - 타입 변환과 단축 평가](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-9.md) | [10장 - 객체 리터럴](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-10.md) | [11장 - 원시 값과 객체의 비교](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-11.md)
