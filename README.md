@@ -11,3 +11,7 @@
 ## 3주차
 
 [12장 - 함수](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-12.md) | [13장 - 스코프](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-13.md) | [14장 - 전역 변수의 문제점](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-10.md) | [15장 - let, const 키워드와 블록 레벨 스코프](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-11.md)
+
+## 4주차
+
+[17장 - 생성자 함수에 의한 객체 생성](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-17.md) | [18장 - 함수와 일급 객체](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-18.md) | [19장 - 프로토타입](https://github.com/FE-JSDeepDive/kim-yerim/blob/main/ch-19.md)
